@@ -1,0 +1,7 @@
+nullDC 1.0.4 r151 fixes by masterchan777
+--------------------------------------------------------
+Changes from r150 : 
+
+1- Internal fatal error fix for some games (e.g. Shenmue II).
+2- CDDA audio buzz fix for some games (e.g. What's Shenmue).
+3- Now compatible with Visual Studio 2013 and most modules can be directly compiled.
