@@ -1,0 +1,1 @@
+nullDC Shenmue Edition is a Sega Dreamcast emulator for Windows X86 this is version based on nullDC v1.0.4 [r150](https://code.google.com/p/nulldcsme/source/detail?r=150) with fixes made for Shenmue series of games
